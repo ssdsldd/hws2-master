@@ -1,0 +1,26 @@
+.App {
+    --header_height: 60px;
+    width: 1280px;
+    margin: 0 auto;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Montserrat';
+}
+
+.container{
+    width: 1140px;
+}
+
+.hw {
+    padding: 24px 0 35px;
+    border-top: 1px solid #D9D9D9;
+    border-bottom: 1px solid #D9D9D9;
+}
+
+.hwTitle {
+    font-size: 22px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
